@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - 🙂 Seeking Fall 2021 Co-op opportunities in Software Eng, Software Dev, Web Dev, Data Science or Machine Learning :)
 - 📫 How to reach me: 
 
-           
      - Email: tapas.rastogi@mail.utoronto.ca
      - LinkedIn: https://www.linkedin.com/in/tapas-rastogi/
+     
+     
 
+<!-- Will add these two statistics once I have a much more robust Github profile :)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark)           
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
