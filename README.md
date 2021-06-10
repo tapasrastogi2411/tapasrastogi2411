@@ -18,9 +18,16 @@ Here are some ideas to get you started:
      
      
 
-<!-- Will add these two statistics once I have a much more robust Github profile :)
+<!-- Will add these statistics once I have a much more robust Github profile :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark)           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark)
+           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=tapasrastogi2411&color=green)
+
+[![Linkedin Badge](https://img.shields.io/badge/-@tapasrastogi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tapas-rastogi/)](https://www.linkedin.com/in/tapas-rastogi/)
+[![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
+
 -->
+
