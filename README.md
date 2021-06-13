@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🎓 Third-year CS Specialist(Co-op) and Stats Major at the University of Toronto, 2023 -->
 - :office: I'm currently working as a Android Mobile Lab Assistant at MADLabs at UofT
 - 🔭 I’m currently working on a Software Engineering project in collaboration with the [Bridge](https://www.utsc.utoronto.ca/thebridge/welcome-bridge) for the [African Impact Challenge](https://www.africanimpact.ca/the-african-impact-challenge) and the Android app development of an iOS Graduate Student Mental health app for [MADLabs](https://mobile.utoronto.ca/)!
-- 🌱 I’m currently learning Kotlin for Android Development, Full-Stack Web Development, Artificial Intelligence!
+- 🌱 I’m currently learning Kotlin for Android Development, Full-Stack Web Development, and Artificial Intelligence!
 - 🙂 Seeking Fall 2021 Co-op opportunities in Software Eng, Software Dev, Web Dev, Data Science or Machine Learning :)
 - 📫 How to reach me: 
 
