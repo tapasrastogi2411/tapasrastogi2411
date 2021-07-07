@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
      - Email: tapas.rastogi@mail.utoronto.ca
      - LinkedIn: https://www.linkedin.com/in/tapas-rastogi/
-     
+     - [Skill and Job Specific versions of my Resume](https://github.com/tapasrastogi2411/Resume)
      
 
 <!-- Will add these statistics once I have a much more robust Github profile :)
