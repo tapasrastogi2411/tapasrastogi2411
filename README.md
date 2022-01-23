@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs"/>
   </a>
   <a>
-    &nbsp;
+    &nbsp; &nbsp; &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=dark"/>
   </a>
 </div>
