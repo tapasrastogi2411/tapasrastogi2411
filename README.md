@@ -21,10 +21,22 @@ Here are some ideas to get you started:
      
 - [Skill and Job Specific versions of my Resume](https://github.com/tapasrastogi2411/Resume)
      
+<br/>
 
+<div align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs"/>
+  </a>
+  <a>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=dark"/>
+  </a>
+</div>
+
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs)
            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
