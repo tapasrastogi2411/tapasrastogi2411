@@ -13,7 +13,7 @@ Here are some ideas to get you started:
      - MATB41 - Multivariable Calculus I
 <!-- - 🔭 I’m currently working on a Software Engineering project in collaboration with the [Bridge](https://www.utsc.utoronto.ca/thebridge/welcome-bridge) for the [African Impact Challenge](https://www.africanimpact.ca/the-african-impact-challenge) and the Android app development of an iOS Graduate Student Mental health app for [MADLabs](https://mobile.utoronto.ca/)! -->
 - 🔭 Featured Project: [The African Impact Challenge - A Community and E-Learning Platform](https://github.com/tapasrastogi2411/African-Impact-Challenge)
-- 🌱 I’m currently learning Angular and Spring Boot
+- 🌱 I’m currently learning PowerBI and React for Frontend development, along with Java and Spring Boot for Backend Development! 
 - 📫 How to reach me: 
 
      - Email: tapas.rastogi@mail.utoronto.ca
