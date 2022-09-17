@@ -6,15 +6,20 @@
 Here are some ideas to get you started: -->
 
 
-- 🎓 Fourth-year CS Specialist(Co-op) and Stats Major at the University of Toronto, 2024
+- 🎓 Fourth-year Computer Science Specialist(Co-op) and Statistics Major at the University of Toronto, 2024
 
-- 🏢 I'm currently working as a Software Engineering Intern at [PointClickCare](https://pointclickcare.com/) and have been a Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS) and a Teaching Assistant for the following courses
+<!-- - 🏢 I'm currently working as a Software Engineering Intern at [PointClickCare](https://pointclickcare.com/) and have been a Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS) and a Teaching Assistant for the following courses
      - CSCC37 - Introduction to Numerical Algorithms for Computational Mathematics
-     - MATB41 - Multivariable Calculus I
+     - MATB41 - Multivariable Calculus I -->
+     
+- 🏢 I'm currently a Teaching Assistant for MATB41 - Multivariable Calculus I and have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a  Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
+
+- 🌱 I'm actively seeking for Summer 2023 SWE Internship positions!
 
 - 🔭 Featured Project: [TDW Marketplace](https://github.com/tapasrastogi2411/TDW-Marketplace)
 
-- 🌱 I’m currently learning PowerBI and React for Frontend development, along with Java and Spring Boot for Backend Development! I am also dabbling in DevOps security software and applications like Prisma Cloud and Fortify at work!
+<!-- - 🌱 I’m currently learning PowerBI and React for Frontend development, along with Java and Spring Boot for Backend Development! I am also dabbling in DevOps security software and applications like Prisma Cloud and Fortify at work! -->
+
 
 - 📫 How to reach me: 
 
