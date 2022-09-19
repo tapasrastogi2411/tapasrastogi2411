@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
      
 - 🏢 I'm currently a Teaching Assistant for MATB41 - Multivariable Calculus I and have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a  Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
 
-- 🌱 I'm actively seeking for Summer 2023 SWE Internship positions!
+- 🌱 I'm actively seeking SWE Internship positions for Summer 2023!
 
 - 🔭 Featured Project: [TDW Marketplace](https://github.com/tapasrastogi2411/TDW-Marketplace)
 
