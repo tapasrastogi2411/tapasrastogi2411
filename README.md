@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
      - CSCC37 - Introduction to Numerical Algorithms for Computational Mathematics
      - MATB41 - Multivariable Calculus I -->
      
-- 🏢 I'm currently a Teaching Assistant for MATA23 - Linear Algebra I and have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a  Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
+- 🏢 I'm currently a Teaching Assistant for MATA23 - Linear Algebra I and MATA31 - Calculus I for Mathematical Sciences and have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a  Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
 
 - 🌱 **I'm actively seeking SWE Internship positions for Summer 2023!**
 
