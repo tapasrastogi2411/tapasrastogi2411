@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-- 🎓 Fourth-year Computer Science Specialist(Co-op) and Statistics Major at the University of Toronto, 2024
+- 🎓 Fourth-year Computer Science Specialist(Co-op) at the University of Toronto, 2024
 
 <!-- - 🏢 I'm currently working as a Software Engineering Intern at [PointClickCare](https://pointclickcare.com/) and have been a Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS) and a Teaching Assistant for the following courses
      - CSCC37 - Introduction to Numerical Algorithms for Computational Mathematics
@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
      
 - 🏢 I'm currently a Teaching Assistant for MATA23 - Linear Algebra I and MATA31 - Calculus I for Mathematical Sciences and have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a  Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
 
-- 🌱 **I'm actively seeking SWE Internship positions for Summer 2023!**
+- 🌱 **I'm actively seeking SWE Internship positions and New Grad Positions for Summer 2023!**
 
 - 🔭 Featured Project: [TDW Marketplace](https://github.com/tapasrastogi2411/TDW-Marketplace)
 
