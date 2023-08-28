@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-- 🎓 Fourth-year Computer Science Specialist(Co-op) at the University of Toronto, 2023
+- 🎓 Recent graduate with a Computer Science Specialist degree from the University of Toronto, Class of 2023. Passionate about technology and problem-solving. Former Co-op student with diverse experience in the field
 
 <!-- - 🏢 I'm currently working as a Software Engineering Intern at [PointClickCare](https://pointclickcare.com/) and have been a Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS) and a Teaching Assistant for the following courses
      - CSCC37 - Introduction to Numerical Algorithms for Computational Mathematics
