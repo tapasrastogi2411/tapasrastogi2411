@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started: -->
 
+- 💻 I'm currently working as an Associate Software Engineer II at [SPS Commerce](https://www.spscommerce.com/), where I contribute to the SMB Integrations Team. 
 
 - 🎓 Recent graduate with a Computer Science Specialist degree from the University of Toronto, Class of 2023. Passionate about technology and problem-solving. Former Co-op student with diverse experience in the field
 
@@ -14,7 +15,7 @@ Here are some ideas to get you started: -->
      
 - 🏢I have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
 
-- 🌱 **I'm actively seeking New Grad SWE Positions!**
+<!-- - 🌱 **I'm actively seeking New Grad SWE Positions!** -->
 
 - 🔭 Featured Project: [TDW Marketplace](https://github.com/tapasrastogi2411/TDW-Marketplace)
 
