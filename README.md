@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
      - CSCC37 - Introduction to Numerical Algorithms for Computational Mathematics
      - MATB41 - Multivariable Calculus I -->
      
-- 🏢I have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
+- 🏢I have been a SWE Intern at [PointClickCare](https://pointclickcare.com/) and a Software Developer at the Ontario Ministry of Children, Community and Social Services(MCCSS)
 
 <!-- - 🌱 **I'm actively seeking New Grad SWE Positions!** -->
 
