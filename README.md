@@ -37,15 +37,13 @@ Here are some ideas to get you started: -->
   </a>
   <a>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs,commits"/>
   </a>
 </div>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs)
            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
  <!-- - :office: I'm currently working as a Android Mobile Lab Assistant at MADLabs at UofT -->
  <!-- - 🔭 I’m currently working on a Software Engineering project in collaboration with the [Bridge](https://www.utsc.utoronto.ca/thebridge/welcome-bridge) for the [African Impact Challenge](https://www.africanimpact.ca/the-african-impact-challenge) and the Android app development of an iOS Graduate Student Mental health app for [MADLabs](https://mobile.utoronto.ca/)! -->
