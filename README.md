@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
      
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasrastogi2411&theme=dark"/>
   </a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs,commits"/>
   </a>
-</div>
+</div> -->
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapasrastogi2411&count_private=true&show_icons=true&theme=dark&hide=contribs)
            
