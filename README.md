@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 💻 I'm currently working as an Software Engineer at [SPS Commerce](https://www.spscommerce.com/), where I contribute to the Onboarding Agentic Team and the SMB Integrations Team. 
+- 💻 I'm currently working as an Software Engineer at [SPS Commerce](https://www.spscommerce.com/), where I contribute to the Onboarding Agent Team.
  
 - 🎓 Recent graduate with a Computer Science Specialist degree from the University of Toronto, Class of 2023. Passionate about technology and problem-solving. Former Co-op student with diverse experience in the field
 
